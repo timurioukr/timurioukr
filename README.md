@@ -33,3 +33,8 @@ I write regular blog posts, most of which you will find on my linkedin page [lin
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **javascript**. 
 
 ---
+
+<p align="center">
+    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurioukr&layout=compact&theme=radical" />
+    <img align="center" height="160px"  src="https://github-readme-stats.vercel.app/api?username=timurioukr&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
+  <p>
