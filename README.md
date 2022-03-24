@@ -1,9 +1,4 @@
 
-
-# [!(https://raw.githubusercontent.com/timurioukr/TimurShekhovtsov/main/timur_header2.png)](http://shehovtsoff.com)
-
-
-
 <p align='center'>
 <a href="https://instagram.com/user.tim.user"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/timur_icon1.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shekhovtsoff/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
