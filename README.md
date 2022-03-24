@@ -1,6 +1,6 @@
 
 
-# [(https://raw.githubusercontent.com/timurioukr/TimurShekhovtsov/main/timur_header2.png)](http://shehovtsoff.com)
+# [!(https://raw.githubusercontent.com/timurioukr/TimurShekhovtsov/main/timur_header2.png)](http://shehovtsoff.com)
 
 
 
