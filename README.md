@@ -1,6 +1,6 @@
 
 
-# [![waylon walker header](https://raw.githubusercontent.com/timurioukr/TimurShekhovtsov/main/timur_header2.png)](http://shehovtsoff.com)
+# [![waylon walker header](https://raw.githubusercontent.com/timurioukr/TimurShekhovtsov/main/image.jpg)](http://shehovtsoff.com)
 
 
 
