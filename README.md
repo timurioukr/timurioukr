@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="https://instagram.com/user.tim.user"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/timur_icon1.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shekhovtsoff/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://qubits.icu/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
+<a href="http://qubits.icu/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/Shekhovtsov%20Timur"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/logo-square-red-big-dark-text-2e091298050b4a55869eb3c7d02e5cd21561b042f7692401fd9e3a2409078c39.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
