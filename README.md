@@ -20,14 +20,6 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
- ---
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my linkedin page [linkedin.com/in/shekhovtsoff](https://www.linkedin.com/in/shekhovtsoff/).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **javascript**. 
-
 ---
 
 <p align="center">
