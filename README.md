@@ -12,7 +12,7 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
 
 ---
 
-<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png?raw=true">
+<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
 
 ---
 
