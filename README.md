@@ -11,12 +11,11 @@ Hey there 👋,
 I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 ---
-
-<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
-<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(2).png">
-<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png">
-
-
+<div align='center'>
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(2).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png">
+<div/>
 ---
 
 <p align="center">
