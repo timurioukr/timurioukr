@@ -15,6 +15,11 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(2).png">
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(5).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(6).png">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(7).png">
+
 <div/>
 ---
 
