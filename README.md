@@ -10,11 +10,9 @@ Hey there 👋,
 
 I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
-  ---
- <p>
-  <img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png?raw=true">
-  
-</p>
+---
+
+<img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png?raw=true">
 
 ---
 
