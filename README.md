@@ -15,7 +15,7 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  <p>
-  <img width="250" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
+  <img width="100" align='left' src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png?raw=true">
   
 </p>
 
