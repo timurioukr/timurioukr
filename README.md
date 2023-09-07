@@ -1,7 +1,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/shekhovtsoff/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="http://google.com/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://qubits.icu/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
 
 
 </p>
