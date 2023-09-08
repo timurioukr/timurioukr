@@ -13,7 +13,6 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
 ---
 <div align='center'>
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(2).png">
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png">
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png">
     <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(5).png">
