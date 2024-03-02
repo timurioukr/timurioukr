@@ -11,7 +11,7 @@ Hey there 👋,
 I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 ---
-<div align='center'>
+<div align='center' style="display: flex; align-items: center;">
     <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png" width="50" height="auto">
     <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png" width="50" height="auto">
     <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png" width="50" height="auto">
