@@ -12,12 +12,12 @@ I create blog posts and open source packages mainly about vue.js and front-end. 
 
 ---
 <div align='center'>
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png" width="100" height="auto">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png" width="100" height="auto">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png" width="100" height="auto">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(5).png" width="100" height="auto">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(6).png" width="100" height="auto">
-    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(7).png" width="100" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png" width="50" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png" width="50" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png" width="50" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(5).png" width="50" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(6).png" width="50" height="auto">
+    <img width="100" src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(7).png" width="50" height="auto">
 
 <div/>
     
