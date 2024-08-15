@@ -8,7 +8,9 @@
 
 Hey there 👋,
 
-I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I am a Frontend Web Developer with experience in creating CRM system and other web applications. I have 4 years of experience in frontend engineering, all time work with with Vue and Nuxt. Have mentoring experience.
+
+Understanding of the full web development stack, app's architecture, API's and quality control. 
 
 ---
 <div align='center' style="display: flex; align-items: center;">
