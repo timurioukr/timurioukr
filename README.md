@@ -46,6 +46,8 @@ I really enjoy experimenting in the field of programming, such as connecting dif
 • Git
 • Figma
 • UML diagram
+• YouTrack / Jira / Yaware
+• Agile / Scrum
 • Web Workers
 • Browser extensions develop
 • Varcel
