@@ -10,47 +10,10 @@ Hey there 👋
 I create blog posts and open source packages mainly about vue.js and front-end.
 
 
-👉🏻 Soft skills
-• Good communication skills 
-• Mentoring experience 
-• Team leading experience 
-• Proactiveness
-• Diligence
+Soft skills 👉🏻 Good communication skills, Mentoring experience, Team leading experience, Proactiveness, Diligence
+Hard Skills 👉🏻 Thorough understanding of software design principles and patterns, Solid knowledge in performance and optimisation application for browsers, Experience in development design-system libraries for projects, Good knowledge of browser API’s
 
-👉🏻 Hard Skills
-• Thorough understanding of software design principles and patterns
-• Solid knowledge in performance and optimisation application for browsers
-• Experience in development design-system libraries for projects
-• Good knowledge of browser API’s
-
-👉🏻 Tools
-• Javascript / Typescript
-• Vue / Nuxt
-• Options API / Composition API
-• Tailwind / Vuetify / Bootstrap / Bulma
-• Vuex / Pinia
-• Vitest / Jest
-• Vue Router
-• Vue CLI / Vite
-• Vuelidate / Validate / Regexp
-• Vue-i18n / Crowdin
-• Axios / Fetch / Websocket
-• REST API
-• CSS / SASS / LESS / SCSS
-• PUG
-• Git
-• Figma
-• UML diagram
-• YouTrack / Jira / Yaware
-• Agile / Scrum
-• Web Workers
-• Browser extensions develop
-• Varcel
-• Google Firebase
-• Supabase
-• Strapi
-• Node.js
-• Express
+Tools 👉🏻 Javascript / Typescript, Vue / Nuxt, Options API / Composition API, Tailwind / Vuetify / Bootstrap / Bulma, Vuex / Pinia, Vitest / Jest, Vue Router, Vue CLI / Vite, Vuelidate / Validate / Regexp, Vue-i18n / Crowdin, Axios / Fetch / Websocket, REST API, CSS / SASS / LESS / SCSS, PUG, Git, Figma, UML diagram, YouTrack / Jira / Yaware, Agile / Scrum, Web Workers, Browser extensions develop, Varcel, Google Firebase, Supabase, Strapi, Node.js, Express
 
 ---
 <div align='center' style="display: flex; align-items: center;">
