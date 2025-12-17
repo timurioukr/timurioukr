@@ -1,18 +1,13 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/shekhovtsoff/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://qubits.icu/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
+<a href="#/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
 
 Hey there 👋
 
-I create blog posts and open source packages mainly about vue.js and front-end.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I am a Frontend Web Developer with experience in creating CRM system and other web applications. I have 4 years of experience in frontend engineering, all time work with with Vue and Nuxt. Have mentoring experience.
-
-Understanding of the full web development stack, app's architecture, API's and quality control.
-
-I really enjoy experimenting in the field of programming, such as connecting different services together or integrating artificial intelligence. Recently, I’ve started actively working on server-side development, gradually learning more in this area. Since my interests in implementing various projects often involve the server side as well.
-
+I create blog posts and open source packages mainly about vue.js and front-end.
 
 
 👉🏻 Soft skills
