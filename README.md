@@ -5,28 +5,15 @@
 
 </p>
 
-Hey there 👋
+Frontend / Full-Stack Engineer | Vue & Nuxt Specialist | AI-First Developer | Vibecoder
 
-I create blog posts and open source packages mainly about vue.js and front-end.
+I’m a Frontend Engineer with 5+ years of commercial experience, focused on building scalable, high-performance web applications, internal tools, and CRM systems. My core expertise is Vue & Nuxt, but in practice I operate as a full-stack, AI-augmented engineer.
 
+Beyond frontend, I build real products using Flutter, Capacitor, Electron, Laravel, Node.js, and Python, allowing me to ship web, mobile, and desktop applications from a single codebase when needed.
 
-Soft skills 👉🏻 Good communication skills, Mentoring experience, Team leading experience, Proactiveness, Diligence
+I also have mentoring and team-leading experience, helping engineers grow, adopt modern tooling (including AI), and write cleaner, more maintainable code.
 
-Hard Skills 👉🏻 Thorough understanding of software design principles and patterns, Solid knowledge in performance and optimisation application for browsers, Experience in development design-system libraries for projects, Good knowledge of browser API’s
-
-Tools 👉🏻 Javascript / Typescript, Vue / Nuxt, Options API / Composition API, Tailwind / Vuetify / Bootstrap / Bulma, Vuex / Pinia, Vitest / Jest, Vue Router, Vue CLI / Vite, Vuelidate / Validate / Regexp, Vue-i18n / Crowdin, Axios / Fetch / Websocket, REST API, CSS / SASS / LESS / SCSS, PUG, Git, Figma, UML diagram, YouTrack / Jira / Yaware, Agile / Scrum, Web Workers, Browser extensions develop, Varcel, Google Firebase, Supabase, Strapi, Node.js, Express
-
----
-<div align='center' style="display: flex; align-items: center;">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(1).png" width="50" height="auto">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(3).png" width="50" height="auto">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com%20(4).png" width="50" height="auto">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(5).png" width="50" height="auto">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(6).png" width="50" height="auto">
-    <img src="https://github.com/timurioukr/timurioukr/blob/main/pngwing.com(7).png" width="50" height="auto">
-<div/>
-    
----
+I’m deeply into vibe coding — writing expressive, readable, elegant code with flow, rhythm, and intention. I value developer experience as much as user experience. I actively use Cursor IDE and AI-assisted workflows to stay fast without sacrificing quality.
 
 <p align="center">
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurioukr&layout=compact&theme=radical" />
