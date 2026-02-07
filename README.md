@@ -14,8 +14,3 @@ Beyond frontend, I build real products using Flutter, Capacitor, Electron, Larav
 I also have mentoring and team-leading experience, helping engineers grow, adopt modern tooling (including AI), and write cleaner, more maintainable code.
 
 I’m deeply into vibe coding — writing expressive, readable, elegant code with flow, rhythm, and intention. I value developer experience as much as user experience. I actively use Cursor IDE and AI-assisted workflows to stay fast without sacrificing quality.
-
-<p align="center">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurioukr&layout=compact&theme=radical" />
-    <img align="center" height="160px"  src="https://github-readme-stats.vercel.app/api?username=timurioukr&show_icons=true&theme=radical&&hide=contribs&count_private=true" />
-<p>
