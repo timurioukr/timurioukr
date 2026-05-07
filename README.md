@@ -23,5 +23,3 @@
 → Finance Tracker — mobile app (Vue 3, Ionic/Capacitor, Firebase)<br>
 → Flutter Health App — iOS health calendar with AI (Gemini)<br>
 → Media Editor — automated video pipeline for YT/TikTok/Instagram (Python)<br>
-
-🔗 linkedin.com/in/teemurios
