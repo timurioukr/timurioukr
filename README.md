@@ -5,12 +5,23 @@
 
 </p>
 
-Frontend / Full-Stack Engineer | Vue & Nuxt Specialist | AI-First Developer | Vibecoder
+👋 Hey, I'm Timur — Frontend Engineer based in Bucharest, Romania
 
-I’m a Frontend Engineer with 5+ years of commercial experience, focused on building scalable, high-performance web applications, internal tools, and CRM systems. My core expertise is Vue & Nuxt, but in practice I operate as a full-stack, AI-augmented engineer.
+🚀 5+ years building scalable web apps with Vue 3 / Nuxt 3
+🤖 I orchestrate AI agents, build RAG systems & LLM-powered automation pipelines
+⚡ I use Cursor, Claude Code & n8n as a standard part of my dev workflow
 
-Beyond frontend, I build real products using Flutter, Capacitor, Electron, Laravel, Node.js, and Python, allowing me to ship web, mobile, and desktop applications from a single codebase when needed.
+💻 What I work with:
+→ Core: Vue 3, Nuxt 3, TypeScript, Pinia, Tailwind CSS
+→ Backend: Laravel, Node.js, Python
+→ AI & Automation: AI Agents, RAG, n8n, LLM integration
+→ Cross-platform: Flutter, Capacitor, Electron, Browser Extensions
+→ Infra: Firebase, Supabase, Vercel, Docker
 
-I also have mentoring and team-leading experience, helping engineers grow, adopt modern tooling (including AI), and write cleaner, more maintainable code.
+🛠️ Some things I've built:
+→ MyCRM — custom visual-builder CRM (Vue 3, Pinia, Supabase)
+→ Finance Tracker — mobile app (Vue 3, Ionic/Capacitor, Firebase)
+→ Flutter Health App — iOS health calendar with AI (Gemini)
+→ Media Editor — automated video pipeline for YT/TikTok/Instagram (Python)
 
-I’m deeply into vibe coding — writing expressive, readable, elegant code with flow, rhythm, and intention. I value developer experience as much as user experience. I actively use Cursor IDE and AI-assisted workflows to stay fast without sacrificing quality.
+🔗 linkedin.com/in/teemurios
