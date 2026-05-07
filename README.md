@@ -13,6 +13,7 @@
 
 💻 What I work with:
 → Core: Vue 3, Nuxt 3, TypeScript, Pinia, Tailwind CSS
+
 → Backend: Laravel, Node.js, Python
 → AI & Automation: AI Agents, RAG, n8n, LLM integration
 → Cross-platform: Flutter, Capacitor, Electron, Browser Extensions
