@@ -11,17 +11,17 @@
 🤖 I orchestrate AI agents, build RAG systems & LLM-powered automation pipelines
 ⚡ I use Cursor, Claude Code & n8n as a standard part of my dev workflow
 
-💻 What I work with:
+💻 What I work with:<br>
 → Core: Vue 3, Nuxt 3, TypeScript, Pinia, Tailwind CSS<br>
-→ Backend: Laravel, Node.js, Python
-→ AI & Automation: AI Agents, RAG, n8n, LLM integration
-→ Cross-platform: Flutter, Capacitor, Electron, Browser Extensions
-→ Infra: Firebase, Supabase, Vercel, Docker
+→ Backend: Laravel, Node.js, Python<br>
+→ AI & Automation: AI Agents, RAG, n8n, LLM integration<br>
+→ Cross-platform: Flutter, Capacitor, Electron, Browser Extensions<br>
+→ Infra: Firebase, Supabase, Vercel, Docker<br>
 
-🛠️ Some things I've built:
-→ MyCRM — custom visual-builder CRM (Vue 3, Pinia, Supabase)
-→ Finance Tracker — mobile app (Vue 3, Ionic/Capacitor, Firebase)
-→ Flutter Health App — iOS health calendar with AI (Gemini)
-→ Media Editor — automated video pipeline for YT/TikTok/Instagram (Python)
+🛠️ Some things I've built:<br>
+→ MyCRM — custom visual-builder CRM (Vue 3, Pinia, Supabase)<br>
+→ Finance Tracker — mobile app (Vue 3, Ionic/Capacitor, Firebase)<br>
+→ Flutter Health App — iOS health calendar with AI (Gemini)<br>
+→ Media Editor — automated video pipeline for YT/TikTok/Instagram (Python)<br>
 
 🔗 linkedin.com/in/teemurios
