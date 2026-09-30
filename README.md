@@ -1,8 +1,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/teemurios/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="#/"><img height="30" src="https://shekhovtsov.win/"></a>&nbsp;&nbsp;
-
+<a href="https://shekhovtsov.win/"><img height="30" src="https://github.com/timurioukr/TimurShekhovtsov/blob/main/browser.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 👋 Hey, I'm Timur — Frontend Engineer based in Bucharest, Romania
